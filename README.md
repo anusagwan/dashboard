@@ -2,6 +2,10 @@
 
 A Simple employee dashboard implmentation in React.js and Redux.
 
+Steps to run the project:
+1.git the clone repository
+2.npm install
+3.npm start
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
