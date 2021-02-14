@@ -1,0 +1,121 @@
+.cd-container {
+    height: 120px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    position: relative;
+    top: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 1px  25px -6px; }
+  
+  .cd-container-new {
+    height: 120px;
+    width: 95%;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    position: relative;
+    top: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 1px  25px -6px; }
+  
+  .inner p {
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+    text-align: center;
+}
+  
+  .bottom-text {
+    font-size: 10px;
+    color: #adad85;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px; }
+  
+  .bottom-text-new {
+    font-size: 10px;
+    color: #adad85;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -15px; }
+  
+  .right-box {
+    display: inline-block;
+    text-align: right;
+    padding: 25px 0px 0px 115px;
+    top: 20px;
+    font-size: 11px;
+    color: #333436;
+    width: 96%; }
+  
+  .bottom-box {
+    margin-top: 55px;
+    border-top: 1px solid #000000; }
+  
+  .inner {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: -30px;
+    left: 10px;
+    display: inline-block;
+    border-radius: 8px;
+    margin-bottom: 100px; }
+  
+  .inner-new {
+    width: 80px;
+    height: 80px;
+    background-color: #DB2164;
+    position: absolute;
+    top: -27px;
+    left: 10px;
+    display: inline-block;
+    border-radius: 8px;
+    margin-bottom: 100px;
+    box-shadow: 1px 3px 8px 2px #DB2164; }
+    .inner-new p {
+      color: white;
+      font-size: 25px;
+      margin-top: 25px;
+      text-align: center;
+  }
+  
+  .font-circle {
+    width: 30px;
+    height: 30px;
+    background: black;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    font-style: bold;
+    font-size: 18px;
+    display: none; }
+  
+  .tag {
+    border-radius: 3px;
+    height: 90px;
+    width: 330px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 1px solid #3C8AD9;
+    fill-opacity: 10%;
+    background-color: aliceblue; }
+  
+  .category-image {
+    height: 60px;
+    width: 58px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px; }
+  
+  .popup{
+    color:black;
+    cursor:pointer
+  }
+  .popup:hover{
+    color: #007AFF;
+  
+  }
